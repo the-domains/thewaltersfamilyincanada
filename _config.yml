@@ -1,0 +1,28 @@
+name: thewaltersfamilyincanada
+favicon: null
+layout_spectrum: 0.27715265937149525
+typography_spectrum: 0.5335401268675923
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.4321063708048314
+  lightness: 0.8826166254002601
+  saturation: 0.12857421301305294
+  rhythmicContrast: 0.61588672734797
+purpose: []
